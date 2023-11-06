@@ -1,5 +1,5 @@
-## Hi there 👋, I am Nadejda
-### I am Software Developer and I live in Sofia (Bulgaria)
+# Hi there 👋, I am Nadejda
+# I am Software Developer and I live in Sofia (Bulgaria)
 ![I am Software Developer and I live in Sofia (Bulgaria)](https://media.licdn.com/dms/image/D4D16AQGwxKk4hdcKLg/profile-displaybackgroundimage-shrink_350_1400/0/1669582020099?e=1704931200&v=beta&t=AppOXxVAwzt-R5zo4BJUNPOieb-cTADoZAGlY_jbr9o)
 
 I like to think outside the box and come up
