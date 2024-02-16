@@ -7,10 +7,10 @@ with creative solutions to achieve goals.
 
 ### Skills
 * :coffee: Java
-* OOP / Spring / Spring Data / MySQL / JUnit
+* OOP / Spring / Spring Data / MySQL / JUnit / HTML / CSS
 
 - 🔭 I’m currently working on my own project 
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning JavaScript
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nadezhda-tsvetanova-4b782470/) 
