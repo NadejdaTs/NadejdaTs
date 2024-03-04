@@ -8,7 +8,6 @@ with creative solutions to achieve goals.
 * :coffee: Java
 * OOP / Spring / Spring Data / MySQL / JUnit / HTML / CSS
 
-- 🔭 I’m currently working on my own project 
 - 🌱 I’m currently learning JavaScript
 
 
