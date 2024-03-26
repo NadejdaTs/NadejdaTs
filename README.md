@@ -11,7 +11,7 @@ with creative solutions to achieve goals.
 - 🌱 I’m currently learning JavaScript
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nadezhda-tsvetanova-4b782470/) 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NadejdaTs"/>
 
-![Visitor Count](https://profile-counter.glitch.me/NadejdaTs/count.svg)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nadezhda-tsvetanova-4b782470/) 
